@@ -12,3 +12,4 @@ C:\Users\Pedro Lopes\POO C#\CSharp-POO\obj\Debug\net9.0\refint\CSharp-POO.dll
 C:\Users\Pedro Lopes\POO C#\CSharp-POO\obj\Debug\net9.0\CSharp-POO.pdb
 C:\Users\Pedro Lopes\POO C#\CSharp-POO\obj\Debug\net9.0\CSharp-POO.genruntimeconfig.cache
 C:\Users\Pedro Lopes\POO C#\CSharp-POO\obj\Debug\net9.0\ref\CSharp-POO.dll
+C:\Users\Pedro Lopes\POO C#\CSharp-POO\obj\Debug\net9.0\CSharp-POO.sourcelink.json
